@@ -38,7 +38,7 @@ var july = require('./main.min.js');
 
 ## **API 文档**
 
-### **1. `july.isLeapYear(year)`**
+### **`july.isLeapYear(year)`**
 
 - **描述**：判断给定年份是否为闰年。
 
