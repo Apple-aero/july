@@ -20,10 +20,10 @@
 
 ### **浏览器引入**
 
-下载 `july.min.js` 并通过 `<script>` 标签引入：
+下载 `main.min.js` 并通过 `<script>` 标签引入：
 
 ```html
-<script src="july.js"></script>
+<script src="main.min.js"></script>
 ```
 
 ### **Node.js 环境**
@@ -31,7 +31,7 @@
 通过 `require` 引入：
 
 ```javascript
-var july = require('./july.js');
+var july = require('./main.min.js');
 ```
 
 ---
